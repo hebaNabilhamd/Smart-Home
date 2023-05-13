@@ -9,6 +9,12 @@ a {
   text-decoration: none;
 }
 
+.out{
+  width: 50px;
+  height: 50px;
+  margin-left: 30px;
+}
+
 a:hover {
   color: #ffd584;
   text-decoration: none;
@@ -1502,4 +1508,13 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+/*.container {
+  margin-left: 30px;
+  margin-top: 20px;
+
+}*/
+.get-started-btn{
+  margin-left: 30px;
 }
